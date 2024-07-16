@@ -1,0 +1,3 @@
+(test
+ (name test_double_char)
+ (libraries qcheck ounit2 double_char))
