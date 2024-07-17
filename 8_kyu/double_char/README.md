@@ -1,3 +1,5 @@
+> This exercise was taken from [codewars](https://www.codewars.com)
+
 # Description
 
 Given a string, you have to return a string in which each character (case-sensitive) is repeated once.
